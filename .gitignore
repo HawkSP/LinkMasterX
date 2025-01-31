@@ -1,0 +1,19 @@
+# .gitignore
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Setuptools
+build/
+dist/
+*.egg-info/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Environment files
+venv/
+*.env

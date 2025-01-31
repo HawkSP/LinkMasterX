@@ -1,0 +1,5 @@
+# requirements.txt
+# This file lists all the third-party dependencies needed to run your project.
+# If dependencies are updated or changed, update this file accordingly.
+
+elevate==0.3.12
