@@ -161,8 +161,6 @@ class SymlinkGUI:
         self.root = root
         self.root.title("LinkMasterX - Symbolic Link Manager")
 
-        # Load a custom icon (ICO file) for the top-left corner if available:
-        # Replace "myicon.ico" with your .ico file's name or path
         try:
             self.root.iconbitmap("myicon.ico")
         except:
